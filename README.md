@@ -25,4 +25,4 @@ O funcionamento do código pode ser descrito da seguinte maneira:
 8. Se um caminho válido for encontrado, o programa imprime "Caminho encontrado!". Caso contrário, imprime "Nenhum caminho encontrado!".
 
 ## Conclusão
-O código apresentado fornece uma solução funcional para o problema de solucionar labirintos usando busca em profundidade. No entanto, há espaço para melhorias em termos de robustez, legibilidade, desempenho e usabilidade. Implementar as sugestões de melhoria mencionadas acima pode resultar em um solucionador de labirintos mais eficiente e fácil de usar.
+O código apresentado fornece uma solução funcional para o problema de solucionar labirintos usando busca em profundidade. No entanto, há espaço para melhorias em termos de robustez, legibilidade, desempenho e usabilidade.
